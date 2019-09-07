@@ -1,0 +1,26 @@
+.btn-primary {
+    background-color:  #c5e5e0;
+    color:#407d99;
+
+
+}
+
+.modal {
+    background: url("/img/background3.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    opacity:0.9;
+    color:#407d99;
+    
+}
+
+.modal-content{
+    margin-top:40%;
+    opacity: 1.0;
+    background: #c5e5e0;
+}
+.modal-body{
+font-size:16px;
+}
