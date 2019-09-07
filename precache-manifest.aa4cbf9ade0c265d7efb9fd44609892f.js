@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5424c4083b9dd504c45913a6ac07053c",
+    "revision": "45802044ebebcb41bacc5b44cf31dd44",
     "url": "/Garden-Clicky-Game-Live/index.html"
   },
   {
-    "revision": "7fbe050d5d42614e77b5",
-    "url": "/Garden-Clicky-Game-Live/static/css/main.1f7a4f5d.chunk.css"
+    "revision": "36634c9c8b5260d0d739",
+    "url": "/Garden-Clicky-Game-Live/static/css/main.17e16fec.chunk.css"
   },
   {
     "revision": "606b67ae68288e2d616e",
     "url": "/Garden-Clicky-Game-Live/static/js/2.5f124323.chunk.js"
   },
   {
-    "revision": "7fbe050d5d42614e77b5",
+    "revision": "36634c9c8b5260d0d739",
     "url": "/Garden-Clicky-Game-Live/static/js/main.f2893409.chunk.js"
   },
   {
