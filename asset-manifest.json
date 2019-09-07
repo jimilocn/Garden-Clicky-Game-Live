@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Garden-Clicky-Game-Live/static/css/main.0031ded7.chunk.css",
+    "main.css": "/Garden-Clicky-Game-Live/static/css/main.34ce3ceb.chunk.css",
     "main.js": "/Garden-Clicky-Game-Live/static/js/main.b5cd6492.chunk.js",
     "main.js.map": "/Garden-Clicky-Game-Live/static/js/main.b5cd6492.chunk.js.map",
     "runtime~main.js": "/Garden-Clicky-Game-Live/static/js/runtime~main.814ec685.js",
@@ -8,8 +8,8 @@
     "static/js/2.5f124323.chunk.js": "/Garden-Clicky-Game-Live/static/js/2.5f124323.chunk.js",
     "static/js/2.5f124323.chunk.js.map": "/Garden-Clicky-Game-Live/static/js/2.5f124323.chunk.js.map",
     "index.html": "/Garden-Clicky-Game-Live/index.html",
-    "precache-manifest.c8481a819d49af75008733fc2053e4d8.js": "/Garden-Clicky-Game-Live/precache-manifest.c8481a819d49af75008733fc2053e4d8.js",
+    "precache-manifest.d704fa906169acff8638bc919c2cd760.js": "/Garden-Clicky-Game-Live/precache-manifest.d704fa906169acff8638bc919c2cd760.js",
     "service-worker.js": "/Garden-Clicky-Game-Live/service-worker.js",
-    "static/css/main.0031ded7.chunk.css.map": "/Garden-Clicky-Game-Live/static/css/main.0031ded7.chunk.css.map"
+    "static/css/main.34ce3ceb.chunk.css.map": "/Garden-Clicky-Game-Live/static/css/main.34ce3ceb.chunk.css.map"
   }
 }
